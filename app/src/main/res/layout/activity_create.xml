@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CreateActivity">
+
+
+    <LinearLayout
+        android:id="@+id/cprovince"
+        android:layout_marginTop="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:background="@color/colorAccent">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Create Prvovince"/>
+
+    </LinearLayout>
+
+
+
+    <LinearLayout
+        android:id="@+id/cdioces"
+        android:layout_marginTop="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:background="@color/colorAccent">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Create Dioces"/>
+
+    </LinearLayout>
+
+
+
+    <LinearLayout
+        android:id="@+id/cdenary"
+        android:layout_marginTop="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:background="@color/colorAccent">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Create Denary"/>
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/cpari"
+        android:layout_marginTop="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:background="@color/colorAccent">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Create Parish"/>
+
+    </LinearLayout>
+
+
+</LinearLayout>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "720524257208",
+    "firebase_url": "https://catholic-a6b8b.firebaseio.com",
+    "project_id": "catholic-a6b8b",
+    "storage_bucket": "catholic-a6b8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720524257208:android:76f1e47366dd0b35ab114d",
+        "android_client_info": {
+          "package_name": "com.sys.cub360.catholicchurch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720524257208-krsnfaajhit76vfcbg8fe36joa65ga15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPHJUwLwxC-_pgYlg-4cq7gOjRuvoCLaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720524257208-krsnfaajhit76vfcbg8fe36joa65ga15.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
